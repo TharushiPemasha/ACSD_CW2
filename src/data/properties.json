@@ -1,0 +1,151 @@
+[
+    {
+      "id": 1,
+      "type": "house",
+      "price": 350000,
+      "bedrooms": 3,
+      "dateAdded": "2023-05-01",
+      "postcode": "BR1 1AA",
+      "image": "/images/one.jpeg",
+      "description": "This charming 3-bedroom house in Bromley epitomizes modern elegance and comfort. The property boasts generously sized living areas designed for relaxation and entertaining, complemented by a contemporary kitchen equipped with state-of-the-art appliances. Large windows brighten the space with an abundance of natural light, enhancing the beauty of the high ceilings and polished hardwood floors. The master suite is a private retreat, featuring a luxurious en-suite bathroom and a walk-in closet. Outside, a beautifully landscaped garden offers a serene space for outdoor activities. Situated in a peaceful neighborhood, the home is conveniently near top-rated schools, lush parks, and various local amenities." ,
+      "longDescription": "This stunning 3-bedroom house in Bromley offers spacious living areas, a modern kitchen, and a beautiful garden. The property features high ceilings, hardwood floors, and large windows that flood the rooms with natural light. The master bedroom includes an en-suite bathroom and a walk-in closet. The house is located in a quiet, family-friendly neighborhood, close to excellent schools, parks, and local amenities.",
+      "images": [
+        "https://i.pinimg.com/736x/a9/4c/cf/a94ccf0ed0eabf181063809745856139.jpg",
+        "https://i.pinimg.com/736x/e8/c4/98/e8c49881b0ee1de1aa62577b003e1a44.jpg",
+        "/images/one2.jpg",
+        "/images/one3.jpg",
+        "/images/one4.webp",
+        "/images/one5.avif",
+        "/images/one6.jpg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/8c/39/e3/8c39e3ae815197115e8994e4285ea174.jpg"
+    },
+    {
+      "id": 2,
+      "type": "flat",
+      "price": 250000,
+      "bedrooms": 2,
+      "dateAdded": "2023-05-05",
+      "postcode": "NW1 6XE",
+      "image": "/images/f1.jpeg",
+      "description": "This modern 2-bedroom flat in Camden epitomizes contemporary urban living. With its open-plan kitchen and living area, it offers a seamless flow, ideal for entertaining or relaxing. The two spacious bedrooms are designed for comfort, featuring ample natural light and built-in storage to maximize space. The sleek bathroom boasts modern fixtures and a luxurious finish. A standout feature is the private balcony, which provides stunning city views, perfect for unwinding. Situated in a secure building, the property includes concierge services, enhancing convenience and security. This prime location in Camden offers excellent connectivity, vibrant culture, and investment potential, appealing to professionals and investors alike.",
+      "longDescription": "This stylish 2-bedroom flat in the heart of Camden offers contemporary living with a open-plan kitchen and living area, two well-sized bedrooms, and a modern bathroom. The property benefits from high-end finishes, built-in storage, and a private balcony with city views. Located in a secure building with a concierge service, it's perfect for young professionals or investors looking for a prime London location.",
+      "images": [
+        "https://i.pinimg.com/736x/4c/57/62/4c576298a5a4fa46b49197f38f436d07.jpg",
+        "/images/two1.jpeg",
+        "/images/two2.jpeg",
+        "/images/two3.jpeg",
+        "/images/two4.jpeg",
+        "/images/two5.jpeg",
+        "/images/two6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/46/75/f7/4675f7d684e7ae2c6efae1f53ee47dfc.jpg"
+    },
+    {
+      "id": 3,
+      "type": "house",
+      "price": 450000,
+      "bedrooms": 4,
+      "dateAdded": "2023-05-10",
+      "postcode": "SW15 2JQ",
+      "image": "/images/2.jpeg",
+      "description": "This delightful 4-bedroom family home in the desirable Putney area offers both space and comfort, ideal for growing families. The ground floor boasts a spacious living room filled with natural light, a separate dining room for family meals, and a modern, fully equipped kitchen. A conservatory provides serene views of the beautifully landscaped garden, perfect for relaxation or entertaining. Upstairs are four generously sized bedrooms, each offering ample storage, and a well-appointed family bathroom. Additional features include a secure garage, convenient off-street parking, and proximity to top-rated schools, parks, and excellent transport links, making it a perfect family haven.",
+      "longDescription": "This charming 4-bedroom house in Putney is perfect for growing families. It features a large living room, a separate dining room, a fully equipped kitchen, and a conservatory overlooking a well-maintained garden. Upstairs, you'll find four good-sized bedrooms and a family bathroom. The property also includes a garage and off-street parking. Located in a quiet residential area, it's within walking distance of excellent schools, parks, and transport links.",
+      "images": [
+        "https://i.pinimg.com/736x/8a/6f/e7/8a6fe75200d831ccec5bf2827315849a.jpg",
+        "/images/th1.jpeg",
+        "/images/th2.jpg",
+        "/images/th3.jpeg",
+        "/images/th4.jpeg",
+        "/images/th5.jpeg",
+        "/images/th6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/9a/e2/42/9ae24211e91062e80a70a1011f829f09.jpg"
+    },
+    {
+      "id": 4,
+      "type": "flat",
+      "price": 300000,
+      "bedrooms": 1,
+      "dateAdded": "2023-05-15",
+      "postcode": "E14 9RZ",
+      "image": "/images/f2.jpeg",
+      "description": "This exquisite 1-bedroom apartment in the heart of Canary Wharf redefines luxury living. The property boasts expansive floor-to-ceiling windows, filling the space with natural light and offering breathtaking panoramic views of London's skyline. The modern, high-spec kitchen features sleek integrated appliances, perfect for culinary enthusiasts. The spacious bedroom includes stylish built-in wardrobes, combining practicality with elegance. Residents enjoy exclusive access to premium amenities, including a 24-hour concierge service, a fully equipped gym, and a beautifully designed communal roof terrace for relaxation or socializing. Surrounded by vibrant shops, fine dining, and excellent transport links, it’s an ideal home for city professionals.",
+      "longDescription": "This stunning 1-bedroom apartment in Canary Wharf offers luxury living in one of London's most dynamic areas. The property features floor-to-ceiling windows with spectacular views of the city, a high-spec kitchen with integrated appliances, and a spacious bedroom with built-in wardrobes. Residents benefit from access to a 24-hour concierge, a gym, and a communal roof terrace. With excellent transport links and a wide range of shops and restaurants nearby, this apartment is ideal for city professionals.",
+      "images": [
+        "https://i.pinimg.com/736x/9f/0c/1b/9f0c1b5d95d90aefee13534f0b5a4d54.jpg",
+        "/images/fr1.jpeg",
+        "/images/fr2.jpeg",
+        "/images/fr3.jpeg",
+        "/images/fr4.jpeg",
+        "/images/fr5.jpeg",
+        "/images/fr6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/8e/39/73/8e3973e4bdf0f2f8a6deaf43c9d9aeae.jpg"
+    },
+    {
+      "id": 5,
+      "type": "house",
+      "price": 550000,
+      "bedrooms": 5,
+      "dateAdded": "2023-05-20",
+      "postcode": "KT2 7PS",
+      "image": "/images/3.jpeg",
+      "description": "This exquisite 5-bedroom Victorian house in Kingston seamlessly blends timeless elegance with modern living. Featuring charming period details such as high ceilings, ornate original fireplaces, and a large bay window, the property radiates character. The extended kitchen has been transformed into a breathtaking open-plan space, perfect for family gatherings, with large doors leading to a beautifully landscaped garden ideal for entertaining. The upper floors house five spacious bedrooms, two luxurious bathrooms, and a master suite complete with an en-suite bathroom for added comfort. Situated on a peaceful residential street, this home is conveniently located near excellent schools, Kingston's vibrant town center, and the picturesque River Thames.",
+      "longDescription": "This beautiful 5-bedroom Victorian house in Kingston combines period features with modern comforts. The property boasts high ceilings, original fireplaces, and a bay window in the living room. The kitchen has been extended to create a stunning open-plan living space that opens onto a landscaped garden. Upstairs, you'll find five bedrooms and two bathrooms, including a master suite with an en-suite bathroom. The house is located on a quiet residential street, close to good schools, Kingston town center, and the River Thames.",
+      "images": [
+        "https://i.pinimg.com/736x/dc/6c/dc/dc6cdcfb11f0e792f28864d711490eda.jpg",
+        "/images/fv1.jpeg",
+        "/images/fv2.jpeg",
+        "/images/fv3.jpeg",
+        "/images/fv4.jpeg",
+        "/images/fv5.jpeg",
+        "/images/fv6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/f0/11/aa/f011aa84de70a64263cb6d66d1dec1cc.jpg"
+    },
+    {
+      "id": 6,
+      "type": "flat",
+      "price": 200000,
+      "bedrooms": 2,
+      "dateAdded": "2023-05-25",
+      "postcode": "CR0 1DP",
+      "image": "/images/f3.jpeg",
+      "description": "This affordable 2-bedroom flat in Croydon is a fantastic opportunity for first-time buyers or investors seeking great value. The property features a bright and inviting living room, perfect for relaxing or entertaining, alongside a modern, well-equipped kitchen with ample storage and contemporary appliances. Both bedrooms are spacious and comfortable, ideal for restful living, and are complemented by a stylish family bathroom. Additional benefits include double glazing for energy efficiency, gas central heating for year-round comfort, and allocated parking for convenience. Situated in a popular residential area, the flat is within easy reach of shops, parks, and excellent transport links, including East Croydon station for quick access to central London.",
+      "longDescription": "This well-presented 2-bedroom flat in Croydon offers excellent value for first-time buyers or investors. The property features a bright living room, a separate kitchen with modern appliances, two good-sized bedrooms, and a family bathroom. It benefits from double glazing, gas central heating, and allocated parking. Located in a popular residential area, the flat is close to local amenities, parks, and transport links, including East Croydon station for easy access to central London.",
+      "images": [
+        "https://i.pinimg.com/736x/ea/63/8a/ea638a8991ff8d4f5d7b19e1fbb2ec34.jpg",
+        "/images/sx1.jpeg",
+        "/images/sx2.jpeg",
+        "/images/sx3.jpeg",
+        "/images/sx4.jpeg",
+        "/images/sx5.jpeg",
+        "/images/sx6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/07/11/80/0711809b75e8106c70d7484db7e43771.jpg"
+    },
+    {
+      "id": 7,
+      "type": "house",
+      "price": 400000,
+      "bedrooms": 3,
+      "dateAdded": "2023-05-30",
+      "postcode": "HA1 4LF",
+      "image": "/images/4.jpeg",
+      "description": "This charming 3-bedroom semi-detached house in Harrow offers an ideal blend of comfort and convenience, perfect for family living. The ground floor features a welcoming entrance hall that leads to a bright and spacious living room, perfect for relaxation. Adjacent is a dining room, ideal for hosting family meals, and a modern kitchen that provides direct access to a well-maintained rear garden, perfect for outdoor activities or gardening enthusiasts. Upstairs, three generously sized bedrooms offer comfort and functionality, complemented by a stylish family bathroom. Additional highlights include a private driveway, a secure garage, and close proximity to excellent schools, local shops, and Harrow-on-the-Hill station, ensuring effortless commutes to central London.",
+      "longDescription": "This delightful 3-bedroom semi-detached house in Harrow is perfect for families. The ground floor comprises a welcoming entrance hall, a spacious living room, a dining room, and a modern kitchen with access to the garden. Upstairs, there are three bedrooms and a family bathroom. The property benefits from a driveway, a garage, and a well-maintained rear garden. Situated in a popular residential area, it's close to good schools, local shops, and Harrow-on-the-Hill station for easy commuting to central London.",
+      "images": [
+        "https://i.pinimg.com/736x/09/80/0d/09800d6f353ac2230b4f4d0a40fe5cf8.jpg",
+        "/images/sv1.jpeg",
+        "/images/sv2.jpeg",
+        "/images/sv3.jpeg",
+        "/images/sv4.jpeg",
+        "/images/sv5.jpeg",
+        "/images/sv6.jpeg"
+      ],
+      "floorPlan": "https://i.pinimg.com/736x/15/14/e1/1514e1159b7e38361e03f366a4bcc672.jpg"
+    }
+  ]
+  
+  
